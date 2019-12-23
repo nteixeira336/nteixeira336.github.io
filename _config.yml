@@ -1,11 +1,11 @@
 # Site settings
-author: Ninibeth Teixeira
-title: 
+author: Ninibeth Teixeira 
+title: Why I Decided to Study Software Engineering 
 header-img: img/home-bg.png
 email: ninibethreina@gmail.com
-copyright_name: Ninibeth Teixeira
+copyright_name: Ninibeth Teixeira 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Story 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nteixeira336
